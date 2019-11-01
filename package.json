@@ -1,6 +1,6 @@
 {
   "name": "@binarymuse/probot",
-  "version": "0.0.0-development",
+  "version": "9.6.1-rc1",
   "description": "🤖 A framework for building GitHub Apps to automate and improve your workflow",
   "repository": "https://github.com/probot/probot",
   "main": "lib/index.js",
